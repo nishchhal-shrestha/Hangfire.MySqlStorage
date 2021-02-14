@@ -13,7 +13,7 @@
         </PackageReference>
         <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.5.0" />
         <PackageReference Include="Dapper" Version="1.50.5" />
-        <PackageReference Include="Hangfire.Core" Version="1.6.21" />
+        <PackageReference Include="Hangfire.Core" Version="1.7.19" />
     </ItemGroup>
     <ItemGroup>
         <Folder Include="Properties\" />
